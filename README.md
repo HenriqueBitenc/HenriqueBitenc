@@ -15,7 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/HenriqueBitenc">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBitenc&theme=dark&hide_border=false&title_color=1e90ff&text_color=1e90ff&bg_color=2d1117&&layout=compact"/
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBitenc&theme=dark&hide_border=false&title_color=1e90ff&text_color=1e90ff&bg_color=2d1117&&layout=compact"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenriqueBitenc&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&title_color=1e90ff&icon_color=32CD32&text_color=1e90ff&bg_color=2d1117"/>
     
   </a>
 </div><br>
