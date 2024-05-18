@@ -15,25 +15,35 @@
 
 <div align="center">
   <a href="https://github.com/HenriqueBitenc">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBitenc&theme=dark&hide_border=false&title_color=1e90ff&text_color=1e90ff&bg_color=2d1117&&layout=compact"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenriqueBitenc&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&title_color=1e90ff&icon_color=32CD32&text_color=1e90ff&bg_color=2d1117"/>
-    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBitenc&theme=radical&hide_border=false&title_color=1e90ff&text_color=1e90ff&bg_color=2d1117&&layout=compact"/>
+   <!-- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HenriqueBitenc&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&title_color=1e90ff&icon_color=32CD32&text_color=1e90ff&bg_color=2d1117"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueBitenc&show_icons=true&theme=radical" />
   </a>
+</div>
+
+  <h3 align="left">
+   Tecnologias que tive contato em estudos ou projetos:
+  </h3><br>
+
+<div style="display: inline_block">
+
+<img wedth=45 height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img wedth=45 height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img wedth=45 height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img wedth=45 height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img wedth=45 height=45 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+
+</div>
+
+  <h2 align="left">
+   Meus contatos:
+  </h2><br>
+
+<div style="display:inline_block">
+  <a href="https://www.instagram.com/henriquebitencourte94/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/henrique-bitencourte-dos-santos-82a9241ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:henriqueb.bitencourte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/+5554991791266"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div><br>
 
-👋 Hello, I'm Henrique B. dos Santos
-
-👨‍💼 Quality Analyst in the heat treatment field, working as a process and systems analyst. Passionate about task automation and problem-solving, I found my passion in programming.
-
-💻 A beginner in programming, I'm exploring Python, VBA, and other languages. A student of Systems Analysis and Development, aiming to broaden my horizons in programming.
-
-🚀 Dreaming of the back-end and data science field. Working hard to learn and grow.
-
-🌎 Fluent in Portuguese and proficient in English.
-
-🤓 My thirst for knowledge drives me. Always ready to face new technological challenges.
-
-📚 In constant learning and evolution.
-
-📧 Contact me: henriqueb.bitencourte@gmail.com 
 
